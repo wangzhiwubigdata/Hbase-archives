@@ -24,4 +24,4 @@ spark访问hbase，再hbase放在hdfs。其实spark并不能享受本地化的�
 
 ApsaraDB HBase跟客户的ECS或者EMR连接，采取的是点到点的连通方式，走的是跟ECS自建集群一样的内网带宽（完全免费），完全没有区别，其实就跟访问集群内部一样。 跟一些有中转节点的模式不一样，ApsaraDB HBase的regionserver都是可以直连客户端的。
 
-详情请阅读原文：https://yq.aliyun.com/articles/664667
+

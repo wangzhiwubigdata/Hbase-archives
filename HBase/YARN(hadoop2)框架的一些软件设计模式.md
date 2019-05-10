@@ -16,5 +16,3 @@
 
 事件驱动模式
 事件驱动模式最核心的部分就是一个异步dispatcher，以此来达到解耦的目的。我们看下yarn中怎么实现的
-
-详情请阅读原文：https://yq.aliyun.com/articles/664951

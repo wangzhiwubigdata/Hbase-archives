@@ -53,6 +53,4 @@ Hbase需要使用SSD云盘，直接使用EMR提供的HDFS，因为Hbase需要低
 后记
 集群的规格最终还是需要用户按照自身的业务特点来最终评估，以上只是一些大体的原则。欢迎各位E-MapReduce及Hadoop用户给出自己的建议。
 
-HBase技术交流社区 - 阿里官方“HBase生态+Spark社区大群”点击加入：https://dwz.cn/Fvqv066s
 
-详情请阅读原文:https://yq.aliyun.com/articles/664831

@@ -149,6 +149,4 @@ public class VisitMysql {
 RDS默认是拒绝访问的，所以需要在RDS中配置网络白名单。在数据安全性->添加白名单分组。
 如果是使用数据集成，则需要配置数据集成的IP地址，如果是使用sqoop或者直接相连，则需要配置E-Mapreduce的白名单(这个可以在集群的详情页看到)
 
-HBase技术交流社区 - 阿里官方“HBase生态+Spark社区大群”点击加入：https://dwz.cn/Fvqv066s
 
-详情请阅读原文：https://yq.aliyun.com/articles/664952

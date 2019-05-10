@@ -65,4 +65,4 @@ HBase中通过row和columns确定的为一个存贮单元称为cell。每个 cel
 
 2． Table 在行的方向上分割为多个Hregion。
 
-详情请阅读原文：https://yq.aliyun.com/articles/665003
+

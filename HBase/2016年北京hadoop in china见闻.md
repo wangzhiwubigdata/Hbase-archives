@@ -33,12 +33,3 @@ ebay到了上万的规模，跟他们聊了下，只能说当年的云梯1做的
 听起来就是废话，也是。具体怎么做，目前大家都类似，新的谁也不知道。好处就是不知道明天会咋样，坏处也是不知道明天会咋样。又是废话，额，好吧。
 
 非常感谢组委员组织此次会议，具体的相关信息及PPT，请关注：http://chinahadoop.com/
-
-## 版权声明
-笔者微博：[阿里封神](http://weibo.com/fengshenwu?is_all=1) 欢迎转载，但请保留[原文地址](https://yq.aliyun.com/articles/31234/)
-
-## 社群
-技术交流钉钉大群 阿里云 HBase+Spark社区 【强烈推荐！】 群内每周进行群直播技术分享及问答
-- 加入方式1：点击link申请加入 https://dwz.cn/Fvqv066s
-
-详情请阅读原文：https://yq.aliyun.com/articles/31234

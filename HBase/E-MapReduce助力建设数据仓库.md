@@ -15,4 +15,4 @@ select count(*) form cluster where ds='2016-08-28'
 作业执行
 同步作业及分析作业可以采取阿里云emapreduce提供的执行计划来运行，可以新建一个执行计划，串联多个作业，当同步作业完成后，就开始分析作业。 这里还提供了 作业失败报警，启动超时报警等实用功能。
 
-详情请阅读原文：https://yq.aliyun.com/articles/664782
+

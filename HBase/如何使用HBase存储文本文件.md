@@ -34,4 +34,4 @@ Fayson在前面的文章中介绍了《如何在CDH中使用Solr对HDFS中的JSO
 
 3.准备上传文件的Java代码
 
-详情请阅读原文：https://yq.aliyun.com/articles/670102
+

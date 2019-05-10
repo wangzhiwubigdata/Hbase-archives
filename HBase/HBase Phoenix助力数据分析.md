@@ -28,4 +28,6 @@ phoenix也支持做一些复杂SQL操作，包括join，sub-query等。
 phoenix不适合于ETL，比如10T数据变为10T数据。
 如下有一张跟Hadoop体系hive的对比：
 
-详情请阅读原文：https://yq.aliyun.com/articles/664670
+
+
+![横版干货二维码](/Users/wangchangye/Downloads/公众号宣传二维码/横版干货二维码.jpg)

@@ -15,6 +15,4 @@ Hive On MR应该是最先支持P级别的分析引擎之一，由于实在太慢
 对于Flink，看好StreamingSQL，不过OLAP一块，目前实在没有发力。
 后续再分享M-OLAP的内容，OLAP基础理论参考google。
 
-HBase技术交流社区 - 阿里官方“HBase生态+Spark社区大群”点击加入：https://dwz.cn/Fvqv066s
 
-详情请阅读原文：https://yq.aliyun.com/articles/664733

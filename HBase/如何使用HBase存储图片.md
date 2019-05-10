@@ -44,4 +44,4 @@ Fayson在前面的文章中介绍了《如何使用HBase存储文本文件》和
 
 3.准备执行脚本
 
-详情请阅读原文：https://yq.aliyun.com/articles/670092
+

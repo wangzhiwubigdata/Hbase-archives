@@ -73,4 +73,6 @@ Coprocessor接口还定义stop()接口函数，该函数在Region被关闭时调
 
 完成以上三个接口函数之后，Endpoint的框架代码就已完成。每个Endpoint协处理器都必须实现这些框架代码而且写法雷同。
 
-详情请阅读原文：https://yq.aliyun.com/articles/670113
+
+
+![横版干货二维码](/Users/wangchangye/Downloads/公众号宣传二维码/横版干货二维码.jpg)

@@ -63,6 +63,4 @@ Apache Cassandra
 	
 需要恢复到备份对等的集群规模
 
-**文章来自：郭鹏——HBase生态+Spark社区大群 志愿者**
 
-详情请阅读原文：https://yq.aliyun.com/articles/673235

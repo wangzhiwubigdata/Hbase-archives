@@ -20,4 +20,4 @@ hbase表不存在的情况
 
 创建一张原始的hive表，准备一些数据
 
-详情请阅读原文：https://yq.aliyun.com/articles/669255
+

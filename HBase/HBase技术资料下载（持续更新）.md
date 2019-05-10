@@ -11,7 +11,7 @@ HBase基本知识介绍及典型案例分析 | [下载](https://yq.aliyun.com/do
 HBase Coprocessor | [下载](https://yq.aliyun.com/download/3023)
 
  在多租户环境中提高HBase可用性| [下载](https://yq.aliyun.com/download/3024)
- 
+
 Quanta:Quora的HBase分层计数系统 | [下载](https://yq.aliyun.com/download/3025)
 
 HBase中的事务 | [下载](https://yq.aliyun.com/download/3026)
@@ -41,9 +41,9 @@ HBase同步复制 | [下载](https://yq.aliyun.com/download/3038)
 Pinterest的HBase升级实践 | [下载](https://yq.aliyun.com/download/3039)
 
  HBase Off heaping| [下载](https://yq.aliyun.com/download/3040)
- 
+
  HBase 吞吐量提升实践| [下载](https://yq.aliyun.com/download/3041)
- 
+
 使用HBase构建大数据生态 | [下载](https://yq.aliyun.com/download/3042)
 
 HBase在hulu的使用和实践 | [下载](https://yq.aliyun.com/download/3043)
@@ -135,9 +135,3 @@ HBase Procedure V2| [下载](https://yq.aliyun.com/download/3087)
 HBase for Solr 介绍| [下载](https://yq.aliyun.com/download/3088)
 
 
-社群
-技术交流钉钉大群 阿里云 HBase+Spark社区 【强烈推荐！】 群内每周进行群直播技术分享及问答
-
-加入方式：点击link申请加入 https://dwz.cn/Fvqv066s
-
-详情请阅读原文：https://yq.aliyun.com/articles/665237

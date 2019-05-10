@@ -15,6 +15,4 @@
 每个云公司，都在前端的一些环节做了很多事情，比如提供硬件支持、协议支持、ECS可以使用一些弹性方案，当然也有不少公司是自己做方案。
 针对数据从云HBase到EMR Hadoop/Spark中，目前有两种方案，其一是Hadoop、Spark直接连接云HBase分析；其二是云HBase提供一些导出数据的功能，在EMR中自动生成一张表（目前云HBase在实现中）。
 
-HBase技术交流社区 - 阿里官方“HBase生态+Spark社区大群”点击加入：https://dwz.cn/Fvqv066s
 
-详情请阅读原文：https://yq.aliyun.com/articles/664684

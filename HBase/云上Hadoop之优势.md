@@ -28,6 +28,4 @@
 云上Hadoop之部署结构
 云上Hadoop之挑战
 云上Hadoop之最佳实践
-HBase技术交流社区 - 阿里官方“HBase生态+Spark社区大群”点击加入：https://dwz.cn/Fvqv066s
 
-详情请阅读原文：https://yq.aliyun.com/articles/664898

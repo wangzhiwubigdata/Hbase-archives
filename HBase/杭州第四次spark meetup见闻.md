@@ -26,11 +26,4 @@ spark发展非常快，2.0都快要发布了。在不同的城市都会有一些
 此次会议有spark2.0、mllib、streaming及CarbonData，内容还是很丰富的。
 出来参加spark meetup除了听分享外，最主要还是互相认识下，大家最好不要听完就走了。
 
-## 版权声明
-笔者微博：[阿里封神](http://weibo.com/fengshenwu?is_all=1) 欢迎转载，但请保留[原文地址](https://yq.aliyun.com/articles/53991)
 
-## 社群
-技术交流钉钉大群 阿里云 HBase+Spark社区 【强烈推荐！】 群内每周进行群直播技术分享及问答
-- 加入方式1：点击link申请加入 https://dwz.cn/Fvqv066s
-
-详情请阅读原文：https://yq.aliyun.com/articles/53991

@@ -52,4 +52,4 @@ https://github.com/fayson/cdhproject/blob/master/hbasedemo/src/main/java/com/clo
 
 https://github.com/fayson/cdhproject/blob/master/hbasedemo/src/main/java/com/cloudera/hbase/coprocessor/client/MyFirstCoprocessExample.java
 
-详情请阅读原文：https://yq.aliyun.com/articles/670075
+

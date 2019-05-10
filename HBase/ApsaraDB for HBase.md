@@ -32,6 +32,4 @@ SSD云盘比高效云盘，更加稳定，且对读有更好的性能，特别�
 
 ApsaraDB for HBase for OSS 完全共享存储容量，满足大容量归档类数据的需求，特别是日志类的需求、物联网历史数据，有需要实时查询，但是查询的频度不高的场景。成本低，存储计算分离。
 ApsaraDB for HBase for 本地实例，满足响应时间要求，成本低，容量与计算固定，存储及计算不分离。
-HBase技术交流社区 - 阿里官方“HBase生态+Spark社区大群”点击加入：https://dwz.cn/Fvqv066s
 
-详情请阅读原文：https://yq.aliyun.com/articles/664665

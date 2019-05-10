@@ -302,4 +302,4 @@ HBASE-19953: Avoid calling post* hook when procedure fails
 
 HBASE-19996: Some nonce procs might not be cleaned up(follow up HBASE-19756)
 
-详情请阅读原文：https://yq.aliyun.com/articles/670084
+

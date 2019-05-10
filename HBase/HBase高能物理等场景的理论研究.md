@@ -70,10 +70,4 @@ HBase 在智能电网异构数据同步中的应用:未来的智能电网在运�
 
 更多关于Hbase学术的论文参考：HBase应用 ，或者在 http://xueshu.baidu.com/ 搜索 hbase相关的论文，比如 hbase 传感器
 
-一些HBase其它的资料参考 
 
-HBase全网最佳学习资料汇总：汇总了HBase大部分的资料的连接
-
-HBase技术交流社区 - 阿里官方“HBase生态+Spark社区大群”点击加入：https://dwz.cn/Fvqv066s
-
-详情请阅读原文：https://yq.aliyun.com/articles/664663

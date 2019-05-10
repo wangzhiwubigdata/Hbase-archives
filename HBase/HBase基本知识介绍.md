@@ -108,4 +108,4 @@ Major Compaction：
 
 HBase 读操作相对于写操作更为复杂，其需要读取 BlockCache、MemStore 以及 HFile。
 
-详情请阅读原文：https://yq.aliyun.com/articles/670748
+

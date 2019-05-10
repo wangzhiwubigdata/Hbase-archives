@@ -36,4 +36,4 @@ Fayson在前面的文章《Cloudera Labs中的Phoenix》和《如何在CDH中使
 
 1.首先确保你的CDH集群已经安装Phoenix的Parcel，安装过程省略，具体可以参考《如何在CDH中使用Phoenix》。
 
-详情请阅读原文：https://yq.aliyun.com/articles/670072
+

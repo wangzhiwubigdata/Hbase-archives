@@ -55,4 +55,4 @@ E-MapReduce
 默认会禁止所有大数据组件的所有端口。
 yarn ui、ganglia等通过80端口访问，设置账号、密码访问机制，保证安全，无需直接开放50070端口。
 
-详情请阅读原文：https://yq.aliyun.com/articles/664689
+

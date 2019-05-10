@@ -18,4 +18,4 @@ ECS：购买一台带有FlexGW镜像的ecs实例hbase-vpn-flexgw（不要自带E
 EIP：创建EIP，挂载到hbase-vpn-flexgw实例上（后续自由调整带宽大小）
 云HBase：购买云HBase集群，再切换VPC到专有网络 HBase-VPC的hbase-switch-c下（这里可用区需要对应下）
 
-详情请阅读原文：https://yq.aliyun.com/articles/664671
+

@@ -24,4 +24,4 @@ Shuffle分为Push模式，Pull模式。Push模式就是直接通过网络发送�
 整体来讲，会随着带宽的增加、业务场景的实时化、多元化，数据本地化不是必须的。
 云上Hadoop的挑战-自动化运维
 
-详情请阅读原文：https://yq.aliyun.com/articles/664946
+

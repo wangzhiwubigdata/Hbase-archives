@@ -45,7 +45,3 @@ system占用率比较高，一般啥原因？
 一直在写技术博客，比如：flink源码分析
 参与社区项目开发，比如：贡献spark、hbase源码
 发表顶级论文
-
-HBase技术交流社区 - 阿里官方“HBase生态+Spark社区大群”点击加入：https://dwz.cn/Fvqv066s
-
-详情请阅读原文：https://yq.aliyun.com/articles/664694

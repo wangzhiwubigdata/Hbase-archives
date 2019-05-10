@@ -16,4 +16,4 @@
 tips:HADOOP-12756 Hadoop会支持读取阿里云的OSS
 第一个图的做法是，提供一个OSSFileSystem。第二个图的做法是，底层的HDFS直接代理走到OSS中，把HDFS做成无状态的，这么做的好处就是HDFS可以做一些类似alluxio的功能 ，且对上层完全透明。(目前还没有实现)
 
-详情请阅读原文：https://yq.aliyun.com/articles/664948
+

@@ -29,4 +29,4 @@ https://github.com/fengshenwu/spark-terasort/tree/master/src/main/scala/com/gith
  /opt/apps/spark-1.6.1-bin-hadoop2.7/bin/spark-submit  --master yarn --deploy-mode cluster --executor-memory 3G --num-executors 30    --conf spark.default.parallelism=800   --class  com.github.ehiggs.spark.terasort.TeraSort  spark-terasort-1.0-jar-with-dependencies.jar /data/teragen_100g /data/terasort_out_100g
 
 
-详情请阅读原文：https://yq.aliyun.com/articles/664786
+
